@@ -47,7 +47,6 @@ import requests
 
 
 
-
 streamlit.stop()
 
 import snowflake.connector
